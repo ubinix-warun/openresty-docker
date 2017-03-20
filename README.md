@@ -2,6 +2,12 @@ Getting started with Lua web development using docker as your Lua web applicatio
 
 ```
 
+docker pull ubinix5warun/openresty-docker
+
+```
+
+```
+
 docker build -t="ubinix-warun/openresty-docker" .
 
 # ubuntu 16.04 and openresty 1.11.2.2
